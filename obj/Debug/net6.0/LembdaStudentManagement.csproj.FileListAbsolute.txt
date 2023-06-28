@@ -1,0 +1,15 @@
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\bin\Debug\net6.0\LembdaStudentManagement.exe
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\bin\Debug\net6.0\LembdaStudentManagement.deps.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\bin\Debug\net6.0\LembdaStudentManagement.runtimeconfig.json
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\bin\Debug\net6.0\LembdaStudentManagement.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\bin\Debug\net6.0\LembdaStudentManagement.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.csproj.AssemblyReference.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.AssemblyInfoInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.AssemblyInfo.cs
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.csproj.CoreCompileInputs.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\refint\LembdaStudentManagement.dll
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.pdb
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\LembdaStudentManagement.genruntimeconfig.cache
+C:\Users\Dell\source\repos\Bridgelabz-batch266\REMAP(BL)\Lembda Expression\LembdaExpression_Assignment\LembdaOperation\LembdaOperation\obj\Debug\net6.0\ref\LembdaStudentManagement.dll
