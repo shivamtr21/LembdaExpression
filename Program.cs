@@ -9,31 +9,27 @@ namespace LembdaStudentManagement
     {
         public static void Main(string[] args)
         {
-
-            Console.WriteLine("Welcome to the Lembda Expression");
-
-
-
-            List<Persons> personlist = new List<Persons>(); ;
-
-            AddPersonList(personlist);
-
-
-        }
-        private static void AddPersonList(List<Persons> personlist)
+            List<Student> studentList = new List<Student>
         {
-            personlist.Add(new Persons(1, "Shivam","Bhopal",17,"3898398989"));
-            personlist.Add(new Persons(2, "Aakanksha", "Bhilai", 18, "49898498894"));
-            personlist.Add(new Persons(3, "Divya", "Up", 19, "90293909330"));
-            personlist.Add(new Persons(4, "Akshay kumar", "Mumbai", 15, "0290392093029"));
-            personlist.Add(new Persons(5, "Anil Kapoor", "Delhi", 19, "93984938493"));
-            personlist.Add(new Persons(6, "Shraddha Kapoor", "Mumbai", 16, "938498938384"));
-            personlist.Add(new Persons(7, "Ankita Chhettri", "Nepal", 15, "93983934893"));
+            new Student { Id = 1, Name = "Divya", PhoneNumber = "845236978", Address = "Lucknow", Age = 25 },
+            new Student { Id = 2, Name = "Shweta", PhoneNumber = "9752235812", Address = "Alhabad", Age = 26 },
+            new Student { Id = 3, Name = "Madhu", PhoneNumber = "9863517478", Address = "Deoria", Age = 28 },
+            new Student { Id = 1, Name = "Priya", PhoneNumber = "845236978", Address = "Lucknow", Age = 18 },
+            new Student { Id = 2, Name = "Shiva", PhoneNumber = "9752235812", Address = "Alhabad", Age = 14 },
+            new Student { Id = 3, Name = "Pari", PhoneNumber = "9863517478", Address = "Deoria", Age = 12}
+        };
 
-          
-
+            Console.WriteLine("Student Details:");
+            studentList.ForEach(student =>
+            {
+                Console.WriteLine($"ID: {student.Id}");
+                Console.WriteLine($"Name: {student.Name}");
+                Console.WriteLine($"Phone Number: {student.PhoneNumber}");
+                Console.WriteLine($"Address: {student.Address}");
+                Console.WriteLine($"Age: {student.Age}");
+                Console.WriteLine();
+            });
         }
-
 
     }
 }
